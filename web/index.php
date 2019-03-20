@@ -4,7 +4,7 @@
 <html>
 <head>
  <a href="test.php"></a>
- <script type="text/javascript" src="test.js">
+ <script type="text/javascript" src="test.js"></script>
  <link rel="stylesheet" type="text/css" href="test.css">
 </head>
 <body>
